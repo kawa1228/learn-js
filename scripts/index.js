@@ -29,3 +29,7 @@ console.log(util.lastName); // 山田
 import { firstName as namae, lastName as myoji } from './ constants/Name.js';
 console.log(namae); // 太郎
 console.log(myoji); // 山田
+
+// Generator
+import gen from './modules/gen.js';
+gen();
