@@ -1,5 +1,7 @@
 import xy from './events/xy.js';
+import href from './events/href.js';
 xy();
+href();
 
 // hello
 import { sayHi } from './modules/sayHi.js';
