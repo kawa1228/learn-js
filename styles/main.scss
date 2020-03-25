@@ -3,3 +3,10 @@ $heading-color: hotpink;
 h1 {
   color: $heading-color;
 }
+
+.box {
+  margin: 50px;
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+}

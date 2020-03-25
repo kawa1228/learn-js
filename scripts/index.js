@@ -1,3 +1,6 @@
+import xy from './events/xy.js';
+xy();
+
 // hello
 import { sayHi } from './modules/sayHi.js';
 sayHi('John'); // Hello, John!
